@@ -18,7 +18,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=St-louder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️ DEV Quote
 ![](https://blog.ftofani.com/wp-content/uploads/2017/10/1-Better-Every-Day-James-Clear-fala-sobre-melhorar-todos-os-dias-800x534.jpg)
 
 
